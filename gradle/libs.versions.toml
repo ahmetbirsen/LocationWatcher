@@ -23,6 +23,7 @@ accompanist-swiperefresh = "0.32.0"
 kotlin-compiler-extension = "1.5.3"
 maps-compose = "4.3.0"
 play-services-maps = "18.2.0"
+play-services-location = "20.0.0"
 secrets = "2.0.1"
 chucker = "4.0.0"
 datastorePreferences = "1.1.1"
@@ -76,6 +77,7 @@ accompanist-swiperefresh = { group = "com.google.accompanist", name = "accompani
 # Google Maps
 maps-compose = { group = "com.google.maps.android", name = "maps-compose", version.ref = "maps-compose" }
 play-services-maps = { group = "com.google.android.gms", name = "play-services-maps", version.ref = "play-services-maps" }
+play-services-location = { group = "com.google.android.gms", name = "play-services-location", version.ref = "play-services-location" }
 
 # Chucker
 chucker-debug = { group = "com.github.chuckerteam.chucker", name = "library", version.ref = "chucker" }
